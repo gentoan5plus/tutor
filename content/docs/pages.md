@@ -1,7 +1,7 @@
 ---
-section_id: Create Content
+section_id: Chưowng 1
 nav_order: 3
-title: Page Set Up
+title: Bài 1
 topics: Front Matter; Navigation
 ---
 
