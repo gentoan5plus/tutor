@@ -1,6 +1,6 @@
 ---
 nav_order: 1
-title: Introduction
+title: Giới thiệu
 ---
 
 Learn-Static Lesson Template is a Jekyll project to create a simple lesson or workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
