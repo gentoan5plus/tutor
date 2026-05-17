@@ -1,5 +1,5 @@
 ---
-section: Chưoưng 1
+section: Chương 1
 nav_order: 2
 title: Bài 2
 topics: Content; Markdown
