@@ -1,5 +1,5 @@
 ---
-section_id: Chưowng 1
+section_id: Chương 1
 nav_order: 3
 title: Bài 1
 topics: Front Matter; Navigation
