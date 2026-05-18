@@ -2,6 +2,14 @@
 nav_order: 1
 title: Giới thiệu
 ---
+Learn-Static Lesson Template là một dự án của Jekyll để tạo một trang web bài học hoặc hội thảo đơn giản, với chủ đề dựa trên Bootstrap, được thiết kế để lưu trữ trên GitHub Pages.
+
+Nó có tính năng điều hướng thanh bên cung cấp cấu trúc rõ ràng cho nội dung từng bước. Điều hướng thanh bên hỗ trợ các trang lồng vào các phần để giúp sắp xếp nội dung bài học của bạn.
+
+Tất cả nội dung được viết bằng Markdown cơ bản, giúp việc viết, chỉnh sửa và sử dụng lại tài liệu bài học trở nên đơn giản.
+
+Để sử dụng Mẫu bài học để tạo trang web của riêng bạn - > tạo một bản sao và thay thế nội dung mẫu bằng nội dung của riêng bạn!
+
 
 Learn-Static Lesson Template is a Jekyll project to create a simple lesson or workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
 
