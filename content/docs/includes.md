@@ -1,7 +1,7 @@
 ---
-section: Create Content
+section: Chương 1
 nav_order: 3
-title: Feature Includes
+title: Bài 3
 topics: Content; Bootstrap Components
 gallery: true
 ---
