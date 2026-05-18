@@ -22,20 +22,12 @@ Viết nội dung trong định dạng đơn giản, có thể tái sử dụng 
 
 ## GitHub Pages 
 
-One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
-It provides free static web hosting from any repository.
-Gh-pages is intended to host relatively simple sites for your GitHub portfolio, project, or documentation.
-Because it is free and a valuable transferable skill, this is a great option for teaching and learning.
+Một tính năng hữu ích đáng kinh ngạc của GitHub là [GitHub Pages](https://guides.github.com/features/pages/). Nó cung cấp dịch vụ lưu trữ web tĩnh miễn phí từ bất kỳ kho lưu trữ nào. Gh-pages nhằm mục đích lưu trữ các trang web tương đối đơn giản cho danh mục đầu tư, dự án hoặc tài liệu GitHub của bạn. Bởi vì nó miễn phí và là một kỹ năng có giá trị có thể chuyển giao, đây là một lựa chọn tuyệt vời để dạy và học.
 
-Many organizations are using GitHub to collaboratively create and publish public workshop websites. 
-For example: 
+Nhiều tổ chức đang sử dụng GitHub để cộng tác tạo và xuất bản các trang web hội thảo công khai. Ví dụ:
 
-- [Programming Historian](http://programminghistorian.org/)
-- [Software Carpentry](https://software-carpentry.org/), [Data Carpentry](http://www.datacarpentry.org/), [Library Carpentry](https://librarycarpentry.org/)
-- this site!
+Nhà sử học lập trình [Programming Historian](http://programminghistorian.org/).
+Nghề mộc phần mềm [Software Carpentry](https://software-carpentry.org/), Nghề mộc dữ liệu [Data Carpentry](http://www.datacarpentry.org/), Nghề mộc thư viện [Library Carpentry](https://librarycarpentry.org/).
+trang web này!
+{% chụp văn bản %}Lưu ý: Có các giới hạn và hướng dẫn mềm cho việc sử dụng gh-page: các trang web phải < 1GB, sử dụng băng thông < 100GB mỗi tháng và thực hiện < 10 bản dựng mỗi giờ. Nếu trang web của bạn vượt quá hạn ngạch này, GitHub sẽ gửi cho bạn một thông báo yêu cầu bạn sửa đổi kho lưu trữ. Tất cả nội dung phải tuân thủ nguyên tắc cộng đồng [community guidelines](https://help.github.com/articles/github-community-guidelines/), ví dụ: không có bạo lực, tình dục tục tĩu hoặc nội dung bất hợp pháp. {% endcapture %} {% bao gồm alert.html text=text color=secondary %}
 
-{% capture text %}Note:
-There are *soft* limits and guidelines for gh-pages usage: sites should be < 1GB, use < 100GB bandwidth per month, and make < 10 builds per hour.
-If your site exceeds these quotas, GitHub will send you a notice asking you to modify the repository.
-All content must follow the [community guidelines](https://help.github.com/articles/github-community-guidelines/), e.g. no violence, obscene sex, or illegal stuff.{% endcapture %}
-{% include alert.html text=text color=secondary %}
