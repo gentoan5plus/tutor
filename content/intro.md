@@ -14,12 +14,11 @@ Tất cả nội dung được viết bằng Markdown cơ bản, giúp việc vi
 
 
 ## Why?
+Thay vì tạo slide cho một hội thảo, tại sao không tạo một trang web? Viết, truy cập, chia sẻ và sử dụng lại dễ dàng hơn. GitHub và GitHub Pages làm cho điều này tương đối đơn giản.
 
-Rather than making slides for a workshop, why not make a website? 
-It's easier to write, access, share, and reuse. 
-GitHub and GitHub Pages makes this relatively straightforward.
+Viết nội dung trong định dạng đơn giản, có thể tái sử dụng này làm cho một Tài nguyên Giáo dục Mở [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) tốt hơn vì bất kỳ ai cũng có thể tạo một bản sao và thích nghi!
 
-Writing content in this simple, reuseable format makes for a better [Open Educational Resource](https://en.wikipedia.org/wiki/Open_educational_resources) since anyone can make a copy and adapt!
+
 
 ## GitHub Pages 
 
