@@ -1,6 +1,6 @@
 ---
 section: Chương 1
-nav_order: 3
+nav_order: 1
 title: Bài 3
 topics: Content; Bootstrap Components
 gallery: true
