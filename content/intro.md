@@ -11,14 +11,7 @@ Tất cả nội dung được viết bằng Markdown cơ bản, giúp việc vi
 Để sử dụng Mẫu bài học để tạo trang web của riêng bạn - > tạo một bản sao và thay thế nội dung mẫu bằng nội dung của riêng bạn!
 
 
-Learn-Static Lesson Template is a Jekyll project to create a simple lesson or workshop website, with a [Bootstrap](https://getbootstrap.com/)-based theme, designed for hosting on [GitHub Pages](https://pages.github.com/).
 
-It features a sidebar navigation providing clear structure for step by step content.
-The sidebar nav supports pages nested into sections to help organize your lesson content. 
-
-All content is written using basic Markdown, making it simple to write, edit, and reuse lesson materials.
-
-To use Lesson Template to create your own website--> make a copy and replace the template content with your own!
 
 ## Why?
 
